@@ -104,7 +104,12 @@ For questions, feedback, or support, please reach out via email at:
 Screenshots and images of the ScholarWeb platform are uploaded here.
 
 
-**Landing Page**
+# **Landing Page**
+### **New Landing Page**
+
+![New Landing Page](images/newlanding.jpeg)
+
+### **Older Landing Page**
 
 ![landing page](images/landing.jpeg)
 
